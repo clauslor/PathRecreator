@@ -8,6 +8,7 @@ java -jar target/PathRecreator-1.0-SNAPSHOT.jar siteA.csv siteB.csv
 ```
 
 ## Expected Result:
+Paths of length > 1!
 ```bash
 siteA.csv imported
 siteB.csv imported
