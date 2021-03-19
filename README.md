@@ -29,5 +29,5 @@ new path [2:D <--> E:3,3:E <--> F:4]
 ## TODOs
 There is much left to do!
 
-The algorithm checks if the Connection Cable is contained by comparing hashcodes not line numbers from imported csv files
+The algorithm checks if the `Connection Cable` is contained in the `Path` by comparing hashcodes not line numbers from imported csv files
 Therefore, `[1:A <--> B:1,1:B <--> A:1]` is not a path!
